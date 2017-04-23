@@ -1,5 +1,5 @@
 # GifAPlace
-Explore your interests by finding new places described with GIFs.
+Create a node.js server that will respond to queries about local restaurant and businesses through GIFS describing the reviews!
 
 # Modules Required
 1. express
